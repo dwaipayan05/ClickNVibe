@@ -1,0 +1,17 @@
+html {
+  min-height: 100%;
+  font-family: Poppins, Helvetica, Arial, sans-serif;
+  background: #00f6ff;
+  background: linear-gradient(to right, #00f6ff, #00f5ec, #00f3d4, #00efb8, #12eb98);
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+}
+
+body.no-overflow {
+  overflow: hidden;
+}
+
